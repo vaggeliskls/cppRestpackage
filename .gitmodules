@@ -1,0 +1,15 @@
+[submodule "sqlpp11"]
+	path = sqlpp11
+	url = https://github.com/rbock/sqlpp11.git
+[submodule "libpq"]
+	path = libpq
+	url = https://github.com/LuaDist/libpq.git
+[submodule "sqlpp11-connector-postgresql"]
+	path = sqlpp11-connector-postgresql
+	url = https://github.com/matthijs/sqlpp11-connector-postgresql.git
+[submodule "date"]
+	path = date
+	url = https://github.com/HowardHinnant/date.git
+[submodule "crowcpp"]
+	path = crowcpp
+	url = https://github.com/ipkn/crow.git
